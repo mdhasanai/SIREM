@@ -12,6 +12,11 @@
   <a href="#"><b>Demo</b></a> ·
   <a href="#citation"><b>BibTeX</b></a>
 </p>
-<img src="assets/figure_method.png" alt="Method overview" width="92%">
-<sub><i>A two-stream architecture in which speech features modulate the imaging reconstruction through a learned spatial weighting.</i></sub>
+<!-- <img src="assets/figure_method.png" alt="Method overview" width="92%">
+<sub><i>A two-stream architecture in which speech features modulate the imaging reconstruction through a learned spatial weighting.</i></sub> -->
 </div>
+
+## Under construction
+ 
+> **This repository is a placeholder.** Code, configs, and pretrained weights will be released here upon paper acceptance.
+> ⭐ Star or *Watch* the repo to be notified when the release lands.
